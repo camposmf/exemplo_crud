@@ -28,7 +28,7 @@
         <div class='message d-flex flex-column text-center justify-content-center vh-100'>
             <h2 class='mb-4'>Usuário Atualizado com sucesso.</h2>
             <a href='../index.html'>
-                <button type='submit' class='btn btn-success'>Voltar Home</button>
+                <button type='submit' class='btn btn-warning'>Voltar Home</button>
             </a>
         </div>"
     );

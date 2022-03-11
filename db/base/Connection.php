@@ -1,6 +1,6 @@
 <?php 
 
-    require_once($_SERVER['DOCUMENT_ROOT'].'\\exemplo_crud\\settings.php');
+    require_once($_SERVER['DOCUMENT_ROOT'].'\\exemplo_crud_php\\settings.php');
 
     class Connection {
         
